@@ -1,3 +1,5 @@
+//start with node -e require('./app').handler({}) on console
+
 exports.handler =  async function(event, context) {
     try
     {
